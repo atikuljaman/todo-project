@@ -1,0 +1,13 @@
+.green{
+    color: lightgreen;
+}
+.blue{
+    color:#0D6EFD ;
+}
+.red{
+    color: rgba(211, 22, 22, 0.822);
+}
+
+#itemList{
+    font-size: 23px;
+}
